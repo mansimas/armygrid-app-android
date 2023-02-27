@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.armygrid.app" version="0.0.1">
+    <preference name="OverrideUserAgent" value="Mozilla/5.0 (Linux; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36" />
+    <name>Armygrid</name>
+    <description>Armygrid App</description>
+    <author email="armygrid@gmail.com" href="https://armygrid.com">
+        Armygrid Team
+    </author>
+    <content src="https://armygrid.com" />
+    <access origin="*" />
+    <allow-navigation href="https://*/*" />
+    <allow-navigation href="http://*/*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+        <icon background="www/img/logo.png" foreground="www/img/logo.png" density="ldpi"/>
+    </platform>
+</widget>
